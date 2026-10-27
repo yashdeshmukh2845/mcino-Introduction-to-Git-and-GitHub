@@ -1,0 +1,4 @@
+$ git branch -vv
+* bug-fix-revert 5e1f37a [origin/bug-fix-revert] Revert "Fix copyright year typo"
+  bug-fix-typo   b63acc7 [origin/bug-fix-typo] Fix copyright year typo
+  main           b63acc7 [origin/main] Fix copyright year typo
